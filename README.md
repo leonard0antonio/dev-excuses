@@ -7,7 +7,7 @@
 ![GitHub open issues](https://img.shields.io/github/issues/leonard0antonio/dev-excuses?style=for-the-badge)
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr/leonard0antonio/dev-excuses?style=for-the-badge)
 
-![Demo da aplicação](demo.png)
+![Demo da aplicação](demo.jpeg)
 
 > Uma biblioteca Node.js completa para salvar desenvolvedores em apuros gerando desculpas corporativas e técnicas altamente críveis. O objetivo principal é fornecer uma saída bem-humorada e instantânea para bugs em produção, atrasos de prazos ou infraestrutura instável.
 
@@ -67,5 +67,3 @@ console.log(devExcuses.getAllExcuses('reuniao'));
 ## 📝 Licença
 
 Esse projeto está sob a licença `MIT`. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
-
-```
