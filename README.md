@@ -66,4 +66,4 @@ console.log(devExcuses.getAllExcuses('reuniao'));
 
 ## 📝 Licença
 
-Esse projeto está sob a licença `MIT`. Veja o arquivo [LICENSE](https://www.google.com/search?q=LICENSE) para mais detalhes.
+Esse projeto está sob a licença `MIT`. Veja o arquivo [LICENSE](https://github.com/leonard0antonio/dev-excuses/blob/main/License.md) para mais detalhes.
